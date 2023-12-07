@@ -4,7 +4,7 @@ This is my homepage! My name is Laurence Porcioncula and I am a student at [Cal 
 
 ## Computer Science Projects
 
-My GitHub page is [http://github.com/Laurence890](https://github.com/Laurence890)
+My GitHub page is [http://github.com/Laurence890](https://github.com/Laurence890).
 
 ### CPSC 120
 
