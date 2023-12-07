@@ -31,11 +31,12 @@ program reminded me of the first game I made in high school, which I spent sever
     Finally, in lab 12, parts 1 and 2 were among my favorites because it’s different from earlier labs and implemented a 
 random number generator (abbreviated to RNG). Part 1 involved making an animation using channels of red, green, and blue. 
 Part 2 had us recreate visual static noise whilst displaying a line of text on the screen. This was the first lab to use 
-RNGs and I found it to be the most familiar and exciting topic. Unlike the physical laws of the world, computers are limited 
-to calculating arithmetic and have no knowledge of gravity, mass, speed, and friction, all of which are factors that play 
-in, let’s say, rolling a die or spinning a wheel. Because of this, RNGs allow computers to mimic probability and produce
-randomness. This notion proves to be a most useful application when it comes to video games, where the player can expect to 
-encounter a different monster or deal a certain amount of damage each time. Overall, both were fun to program because it’s 
-nothing we’ve done before but it also marks the last lab of the semester, which is sad to say. Nonetheless, I had a great 
-time working with my peers in labs, learning how to read and write code, and developing my skills as a programmer.
+RNGs and I found it to be the most familiar and exciting topic to me. Unlike the physical laws of the world, computers are 
+limited to calculating arithmetic and have no knowledge of gravity, mass, speed, and friction, all of which are factors that 
+play in, let’s say, rolling a die or spinning a wheel. Because of this, RNGs allow computers to mimic probability and 
+produce randomness. This notion proves to be a most useful application when it comes to video games, where the player can 
+expect to encounter a different monster or deal a certain amount of damage each time. Overall, both were fun to program 
+because it’s nothing we’ve done before but it also marks the last lab of the semester, which is sad to say. Nonetheless, I 
+had a great time working with my peers in labs, learning how to read and write code, and developing my skills as a 
+programmer.
 
