@@ -40,3 +40,4 @@ because it’s nothing we’ve done before but it also marks the last lab of the
 had a great time working with my peers in labs, learning how to read and write code, and developing my skills as a 
 programmer.
 
+![Xenoblade Scenery](https://github.com/Laurence890/Laurence890.github.io/assets/143298353/ad51a627-e81b-451d-9eac-a68be27e1b28)
