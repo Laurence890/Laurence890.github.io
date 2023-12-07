@@ -10,7 +10,7 @@ My GitHub page is http://github.com/Laurence890
 
 * Lab 7
 
-  Lab 7, part 2, was a favorite of mine because of its practicality in the real world, which is why I had the most fun working 
+    Lab 7, part 2, was a favorite of mine because of its practicality in the real world, which is why I had the most fun working 
 on it. This part of Lab 7 involved whether street parking is allowed during a specific timeframe, following the regulations of 
 street signs. In addition, my partner and I implemented several if-statements, all of which added an extra layer of complexity 
 to our program. In retrospect, the concept of conditional statements fascinates me because it’s similar to making a decision. 
