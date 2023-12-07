@@ -40,3 +40,4 @@ expect to encounter a different monster or deal a certain amount of damage each 
 replayability since a number can be wildly different from the previous one. Overall, both were fun to program because it’s 
 nothing we’ve done before but it also marks the last lab of the semester, which is sad to say. Nonetheless, I had a great 
 time working with my peers in labs, learning how to read and write code, and developing my skills as a programmer.
+
